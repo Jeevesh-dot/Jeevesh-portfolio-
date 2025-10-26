@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jeevesh Automation Portfolio</title>
+</head>
+<body>
+  <h1>Jeevesh Automation Portfolio</h1>
+  <p>Hello! I am Jeevesh. I build automation solutions for my clients.</p>
+  <h2>Services I Offer:</h2>
+  <ul>
+    <li>Automation of repetitive tasks</li>
+    <li>Workflow optimization</li>
+    <li>Data processing</li>
+  </ul>
+  <p>Contact me: jeeveshj86@gmail.com</p>
+</body>
+</html>
